@@ -1,6 +1,6 @@
 # Monthly Utility Bill Calculator
 
-**Program Assignment 2** · Due 10/22/2026, 11:59 PM
+**Program Assignment 2** · Due 11/06/2026, 11:59 PM
 
 A Java program that calculates a customer's monthly electricity bill using tiered (progressive) pricing, applies a late-payment fee when the previous bill is overdue, then displays the bill and saves a copy to a text file.
 
@@ -107,7 +107,8 @@ Values must be calculated from the input, not hard-coded.
 ├── README.md
 ├── UtilityData.txt          # Sample input (one customer record)
 ├── UtilityBillReport.txt    # Generated bill (output)
-└── <YourProgram>.java       # Main program
+└── src/
+    └── ElectricBillCalculator.java       # Main program
 ```
 
 ## Getting Started: Fork and Clone into IntelliJ IDEA
@@ -168,15 +169,6 @@ git merge upstream/main
 ```
 
 In IntelliJ you can do the same under **Git > Manage Remotes** and **Git > Pull**.
-
-## Build and Run
-
-```bash
-javac <YourProgram>.java
-java <YourProgram>
-```
-
-Replace `<YourProgram>` with your main class name. Place `UtilityData.txt` in the working directory if reading from a file.
 
 ## Testing
 
