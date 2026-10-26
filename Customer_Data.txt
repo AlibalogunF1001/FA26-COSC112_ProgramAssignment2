@@ -1,0 +1,11 @@
+C1001 Maya Johnson 400 Y
+C1002 Ethan Williams 375 Y
+C1003 Sophia Martinez 420 N
+C1004 Liam Anderson 390 Y
+C1005 Olivia Brown 450 Y
+C1006 Noah Davis 310 N
+C1007 Ava Wilson 500 Y
+C1008 James Taylor 280 N
+C1009 Isabella Moore 430 Y
+C1010 Benjamin Thomas 360 Y
+C1011 Charlotte Jackson 410 N
